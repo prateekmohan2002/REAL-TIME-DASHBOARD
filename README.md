@@ -18,10 +18,11 @@ DATA SOURCE :- https://api.data.gov.in/resource/6e9fff80-5242-4672-94ee-b488bda0
 
 Tools & Techniques Used:
 Power Query for efficient data cleaning and shaping
-DAX for custom calculations
-Interactive visuals for sales performance, trends, and product analysis
+Interactive visuals
 Project Highlights:
 User-friendly layout with interactive slicers and filters
 Clear data storytelling for better decision-making
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/730fbcdb-2971-4746-80f9-629daf682ff6)
