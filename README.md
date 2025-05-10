@@ -13,6 +13,9 @@
 *MENTOR*: NEELA SANTOSH
 
 Project: Real Time Data Analysis
+
+DATA SOURCE :- https://api.data.gov.in/resource/6e9fff80-5242-4672-94ee-b488bda00eb8
+
 Tools & Techniques Used:
 Power Query for efficient data cleaning and shaping
 DAX for custom calculations
