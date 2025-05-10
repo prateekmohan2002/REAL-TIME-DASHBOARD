@@ -25,4 +25,6 @@ Clear data storytelling for better decision-making
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/311900f1-cce5-4364-8958-189d18da8066)
+
 ![Image](https://github.com/user-attachments/assets/730fbcdb-2971-4746-80f9-629daf682ff6)
